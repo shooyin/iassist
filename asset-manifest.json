@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iassist/static/css/main.f926e180.chunk.css",
+    "main.js": "/iassist/static/js/main.0ee85fe2.chunk.js",
+    "main.js.map": "/iassist/static/js/main.0ee85fe2.chunk.js.map",
+    "runtime-main.js": "/iassist/static/js/runtime-main.d012ebe6.js",
+    "runtime-main.js.map": "/iassist/static/js/runtime-main.d012ebe6.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/iassist/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.58c57f8e.chunk.js": "/iassist/static/js/2.58c57f8e.chunk.js",
+    "static/js/2.58c57f8e.chunk.js.map": "/iassist/static/js/2.58c57f8e.chunk.js.map",
+    "index.html": "/iassist/index.html",
+    "precache-manifest.8eed09c33d31b61885b0f8c6dacb41b1.js": "/iassist/precache-manifest.8eed09c33d31b61885b0f8c6dacb41b1.js",
+    "service-worker.js": "/iassist/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/iassist/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.f926e180.chunk.css.map": "/iassist/static/css/main.f926e180.chunk.css.map",
+    "static/js/2.58c57f8e.chunk.js.LICENSE": "/iassist/static/js/2.58c57f8e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d012ebe6.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.58c57f8e.chunk.js",
+    "static/css/main.f926e180.chunk.css",
+    "static/js/main.0ee85fe2.chunk.js"
+  ]
+}
